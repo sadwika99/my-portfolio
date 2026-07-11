@@ -1,155 +1,158 @@
 {
-  "name": "Priya Sharma",
+  "name": "Ashrit Raghupatruni",
   "degree": "B.Tech in Computer Science and Engineering",
-  "university": "VIT-AP University, Amaravati",
-  "cgpa": "8.7 / 10",
-  "location": "Vijayawada, Andhra Pradesh, India",
-  "email": "priya.sharma@example.com",
-  "phone": "+91 98765 43210",
-  "tagline": "Computer Science Student",
+  "university": "SRM University - AP",
+  "cgpa": "8.67",
+  "location": "Vijayawada, India",
+  "email": "ashritraghupatruni200407@gmail.com",
+  "phone": "+91 83417 97579",
+  "tagline": "Computer Science Undergraduate",
   "about": [
-    "I am a Computer Science student at VIT-AP University, Amaravati, with a strong interest in front-end engineering, database-backed applications, and problem solving.",
-    "I enjoy translating academic concepts into usable interfaces and organized workflows. I am preparing for internship roles where I can contribute clean implementation, thoughtful documentation, and consistent collaboration."
+    "Ashrit Raghupatruni is a motivated computer science undergraduate with hands-on experience in full-stack web development and machine learning. He is seeking a software development or AI/ML internship to apply his skills and contribute to impactful real-world projects. With a strong foundation in programming languages and web development, Ashrit is a promising talent in the tech industry."
   ],
-  "aboutHighlights": [
-    "Working with React, TypeScript, SQL, and responsive design practices.",
-    "Experienced in turning coursework ideas into polished academic projects.",
-    "Interested in internship roles that value ownership, communication, and learning."
-  ],
-  "navLinks": [
-    { "label": "About", "href": "#about" },
-    { "label": "Education", "href": "#education" },
-    { "label": "Skills", "href": "#skills" },
-    { "label": "Projects", "href": "#projects" },
-    { "label": "Contact", "href": "#contact" }
-  ],
-  "coursework": [
-    "Programming Fundamentals",
-    "Data Structures",
-    "Object-Oriented Programming",
-    "Database Management Systems",
-    "Operating Systems",
-    "Computer Networks",
-    "Software Engineering",
-    "Web Technologies"
-  ],
+  "aboutHighlights": [],
+  "coursework": [],
   "skills": [
     {
       "title": "Programming Languages",
-      "skills": ["C", "C++", "Java", "Python", "JavaScript"]
+      "skills": [
+        "C",
+        "C++",
+        "Python",
+        "JavaScript"
+      ]
     },
     {
-      "title": "Web Development",
-      "skills": ["HTML", "CSS", "React", "Tailwind CSS", "Responsive Layouts"]
+      "title": "Frontend",
+      "skills": [
+        "React"
+      ]
+    },
+    {
+      "title": "Backend",
+      "skills": [
+        "Node.js"
+      ]
     },
     {
       "title": "Databases",
-      "skills": ["MySQL", "SQL Queries", "Database Design", "MongoDB"]
-    },
-    {
-      "title": "Tools & Technologies",
-      "skills": ["VS Code", "Postman", "Figma", "Canva", "Version Control"]
-    },
-    {
-      "title": "Soft Skills",
       "skills": [
-        "Communication",
-        "Teamwork",
-        "Problem Solving",
-        "Time Management",
-        "Presentation"
+        "MongoDB"
+      ]
+    },
+    {
+      "title": "AI/ML",
+      "skills": [
+        "Machine Learning",
+        "NLP",
+        "CNN"
       ]
     }
   ],
   "projects": [
     {
-      "title": "Smart Attendance Monitor",
-      "description": "A web application for tracking subject-wise attendance, identifying shortage risk, and summarizing monthly attendance patterns for students.",
-      "technologies": ["HTML", "CSS", "JavaScript", "Local Storage"],
-      "learning": "Implemented form validation, percentage calculations, and clear attendance summaries from academic records."
+      "title": "OpsMind AI - Enterprise SOP Intelligence Agent",
+      "description": "Built a full-stack RAG-based system to transform SOP documents into an AI-powered assistant using React, Node.js, and MongoDB, enabling natural language querying of enterprise documents. Implemented semantic retrieval with vector embeddings and integrated Gemini AI to generate context-aware responses with real-time streaming via SSE.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "learning": ""
     },
     {
-      "title": "ExamPrep Study Planner",
-      "description": "A React-based planner for organizing weekly study targets, due dates, revision notes, and exam preparation tasks across subjects.",
-      "technologies": ["React", "TypeScript", "Tailwind CSS"],
-      "learning": "Used reusable components and typed state to manage task status, filters, and responsive study views."
+      "title": "Crop Disease Detection (SIH Project)",
+      "description": "Architected a CNN-based image classification model to detect crop diseases from leaf images and generate actionable remediation insights for farmers. Streamlined the prediction pipeline and output presentation to improve end-user usability and interpretation accuracy.",
+      "technologies": [
+        "CNN"
+      ],
+      "learning": ""
     },
     {
-      "title": "Library Catalog Query System",
-      "description": "A Python and MySQL project for searching book records, managing issue status, and filtering catalog entries by department and author.",
-      "technologies": ["Python", "MySQL", "SQL"],
-      "learning": "Designed relational tables, wrote normalized queries, and handled search scenarios used in campus libraries."
+      "title": "Movie Recommendation System",
+      "description": "Built a content-based and collaborative filtering recommendation engine that delivers personalized movie suggestions based on user preferences and viewing history.",
+      "technologies": [
+        "Collaborative Filtering"
+      ],
+      "learning": ""
+    },
+    {
+      "title": "Excuse & Apology Generator (AI-Based)",
+      "description": "Designed a Python NLP tool to generate context-aware, tone-adjusted responses with customization options for urgency, situation type, and formality level.",
+      "technologies": [
+        "NLP",
+        "Python"
+      ],
+      "learning": ""
+    },
+    {
+      "title": "Student Record Management System",
+      "description": "Engineered a CRUD-based system to manage 50+ student records with structured data storage, efficient retrieval, and a clean CLI interface.",
+      "technologies": [
+        "CRUD"
+      ],
+      "learning": ""
     }
   ],
-  "activities": [
-    {
-      "title": "Competitions",
-      "items": [
-        "Ranked in the top 10 at the department coding challenge focused on arrays, strings, and algorithmic problem solving.",
-        "Presented the Smart Attendance Monitor project during the annual Computer Science project expo."
-      ]
-    },
-    {
-      "title": "Hackathons",
-      "items": [
-        "Built a student helpdesk prototype with a four-member team during the VIT-AP Smart Campus Hackathon.",
-        "Contributed to feature planning, interface flow, documentation, and final product presentation."
-      ]
-    },
-    {
-      "title": "Workshops",
-      "items": [
-        "Completed hands-on workshops on React components, database design, and REST API testing.",
-        "Attended placement preparation sessions covering technical interviews, resumes, and project walkthroughs."
-      ]
-    },
-    {
-      "title": "Student Leadership",
-      "items": [
-        "Coordinated class announcements, academic reminders, and project discussion groups for CSE coursework.",
-        "Assisted classmates with presentation preparation, project documentation, and demo planning."
-      ]
-    }
-  ],
+  "activities": [],
   "certifications": [
     {
-      "name": "Responsive Web Design",
-      "issuer": "freeCodeCamp",
-      "date": "March 2025"
+      "name": "Artificial Intelligence Internship Certificate",
+      "issuer": "LaunchEd Global",
+      "date": "2025"
     },
     {
-      "name": "Programming in Python",
-      "issuer": "NPTEL Online Certification",
-      "date": "January 2025"
-    },
-    {
-      "name": "Database Management Fundamentals",
-      "issuer": "Oracle Academy",
-      "date": "November 2024"
+      "name": "Data Structures & Algorithms in C++",
+      "issuer": "Scaler",
+      "date": "2024"
     }
   ],
   "experiences": [
     {
-      "organization": "CodeCraft Labs",
-      "role": "Frontend Development Intern",
-      "duration": "June 2025 - August 2025",
+      "organization": "Zaalima Development Pvt. Ltd.",
+      "role": "Web Development Intern",
+      "duration": "2026-03-01 - Present",
       "responsibilities": [
-        "Developed responsive page sections for a student services website using React and Tailwind CSS.",
-        "Improved mobile spacing, typography, and accessibility states across assigned pages.",
-        "Prepared component notes and QA checklists for handoff to the internal team."
+        "Built and deployed responsive web interfaces using React, JavaScript, HTML, and CSS, ensuring cross-device compatibility across mobile, tablet, and desktop screen sizes. Refactored component rendering logic, reducing average page load time by 30% and eliminating layout shift on mobile viewports."
       ]
     },
     {
-      "organization": "Computer Science Department",
-      "role": "Class Representative",
-      "duration": "September 2024 - Present",
+      "organization": "LaunchEd Global",
+      "role": "Artificial Intelligence Intern",
+      "duration": "2025-07-01 - 2025-09-30",
       "responsibilities": [
-        "Shared academic updates, assignment reminders, and event information with classmates.",
-        "Coordinated project discussion groups and presentation schedules.",
-        "Maintained clear communication between students and department coordinators."
+        "Built and evaluated 3 NLP-based text classification models, achieving up to 87% accuracy, and deployed them as REST APIs for internal testing workflows. Automated data preprocessing pipeline reducing manual preparation time by 40%, enabling faster model iteration cycles."
       ]
+    }
+  ],
+  "navLinks": [
+    {
+      "label": "Home",
+      "href": "#hero"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Education",
+      "href": "#education"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
     }
   ]
 }
-
- 
