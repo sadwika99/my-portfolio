@@ -1,0 +1,155 @@
+{
+  "name": "Priya Sharma",
+  "degree": "B.Tech in Computer Science and Engineering",
+  "university": "VIT-AP University, Amaravati",
+  "cgpa": "8.7 / 10",
+  "location": "Vijayawada, Andhra Pradesh, India",
+  "email": "priya.sharma@example.com",
+  "phone": "+91 98765 43210",
+  "tagline": "Computer Science Student",
+  "about": [
+    "I am a Computer Science student at VIT-AP University, Amaravati, with a strong interest in front-end engineering, database-backed applications, and problem solving.",
+    "I enjoy translating academic concepts into usable interfaces and organized workflows. I am preparing for internship roles where I can contribute clean implementation, thoughtful documentation, and consistent collaboration."
+  ],
+  "aboutHighlights": [
+    "Working with React, TypeScript, SQL, and responsive design practices.",
+    "Experienced in turning coursework ideas into polished academic projects.",
+    "Interested in internship roles that value ownership, communication, and learning."
+  ],
+  "navLinks": [
+    { "label": "About", "href": "#about" },
+    { "label": "Education", "href": "#education" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "coursework": [
+    "Programming Fundamentals",
+    "Data Structures",
+    "Object-Oriented Programming",
+    "Database Management Systems",
+    "Operating Systems",
+    "Computer Networks",
+    "Software Engineering",
+    "Web Technologies"
+  ],
+  "skills": [
+    {
+      "title": "Programming Languages",
+      "skills": ["C", "C++", "Java", "Python", "JavaScript"]
+    },
+    {
+      "title": "Web Development",
+      "skills": ["HTML", "CSS", "React", "Tailwind CSS", "Responsive Layouts"]
+    },
+    {
+      "title": "Databases",
+      "skills": ["MySQL", "SQL Queries", "Database Design", "MongoDB"]
+    },
+    {
+      "title": "Tools & Technologies",
+      "skills": ["VS Code", "Postman", "Figma", "Canva", "Version Control"]
+    },
+    {
+      "title": "Soft Skills",
+      "skills": [
+        "Communication",
+        "Teamwork",
+        "Problem Solving",
+        "Time Management",
+        "Presentation"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Smart Attendance Monitor",
+      "description": "A web application for tracking subject-wise attendance, identifying shortage risk, and summarizing monthly attendance patterns for students.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Local Storage"],
+      "learning": "Implemented form validation, percentage calculations, and clear attendance summaries from academic records."
+    },
+    {
+      "title": "ExamPrep Study Planner",
+      "description": "A React-based planner for organizing weekly study targets, due dates, revision notes, and exam preparation tasks across subjects.",
+      "technologies": ["React", "TypeScript", "Tailwind CSS"],
+      "learning": "Used reusable components and typed state to manage task status, filters, and responsive study views."
+    },
+    {
+      "title": "Library Catalog Query System",
+      "description": "A Python and MySQL project for searching book records, managing issue status, and filtering catalog entries by department and author.",
+      "technologies": ["Python", "MySQL", "SQL"],
+      "learning": "Designed relational tables, wrote normalized queries, and handled search scenarios used in campus libraries."
+    }
+  ],
+  "activities": [
+    {
+      "title": "Competitions",
+      "items": [
+        "Ranked in the top 10 at the department coding challenge focused on arrays, strings, and algorithmic problem solving.",
+        "Presented the Smart Attendance Monitor project during the annual Computer Science project expo."
+      ]
+    },
+    {
+      "title": "Hackathons",
+      "items": [
+        "Built a student helpdesk prototype with a four-member team during the VIT-AP Smart Campus Hackathon.",
+        "Contributed to feature planning, interface flow, documentation, and final product presentation."
+      ]
+    },
+    {
+      "title": "Workshops",
+      "items": [
+        "Completed hands-on workshops on React components, database design, and REST API testing.",
+        "Attended placement preparation sessions covering technical interviews, resumes, and project walkthroughs."
+      ]
+    },
+    {
+      "title": "Student Leadership",
+      "items": [
+        "Coordinated class announcements, academic reminders, and project discussion groups for CSE coursework.",
+        "Assisted classmates with presentation preparation, project documentation, and demo planning."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Responsive Web Design",
+      "issuer": "freeCodeCamp",
+      "date": "March 2025"
+    },
+    {
+      "name": "Programming in Python",
+      "issuer": "NPTEL Online Certification",
+      "date": "January 2025"
+    },
+    {
+      "name": "Database Management Fundamentals",
+      "issuer": "Oracle Academy",
+      "date": "November 2024"
+    }
+  ],
+  "experiences": [
+    {
+      "organization": "CodeCraft Labs",
+      "role": "Frontend Development Intern",
+      "duration": "June 2025 - August 2025",
+      "responsibilities": [
+        "Developed responsive page sections for a student services website using React and Tailwind CSS.",
+        "Improved mobile spacing, typography, and accessibility states across assigned pages.",
+        "Prepared component notes and QA checklists for handoff to the internal team."
+      ]
+    },
+    {
+      "organization": "Computer Science Department",
+      "role": "Class Representative",
+      "duration": "September 2024 - Present",
+      "responsibilities": [
+        "Shared academic updates, assignment reminders, and event information with classmates.",
+        "Coordinated project discussion groups and presentation schedules.",
+        "Maintained clear communication between students and department coordinators."
+      ]
+    }
+  ]
+}
+
+ 
