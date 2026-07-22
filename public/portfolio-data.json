@@ -1,212 +1,130 @@
 {
-  "brand": "Ashrit Raghupatruni",
   "profile": {
     "name": "Ashrit Raghupatruni",
-    "initials": "AR",
     "title": "Computer Science Undergraduate",
-    "tagline": "Computer Science Undergraduate",
     "summary": "Ashrit Raghupatruni is a motivated computer science undergraduate with hands-on experience in full-stack web development and machine learning. He is seeking a software development or AI/ML internship to apply his skills and contribute to impactful real-world projects. With a strong foundation in programming languages and web development, Ashrit is a promising talent in the tech industry.",
-    "location": "Vijayawada, India",
     "email": "ashritraghupatruni200407@gmail.com",
-    "phone": "+91 83417 97579"
+    "phone": "+91 83417 97579",
+    "location": "Vijayawada, India"
   },
-  "nav": [
+  "experience": [
     {
-      "label": "About",
-      "href": "#about"
-    },
-    {
-      "label": "Experience",
-      "href": "#experience"
-    },
-    {
-      "label": "Education",
-      "href": "#education"
-    },
-    {
-      "label": "Projects",
-      "href": "#projects"
-    },
-    {
-      "label": "Skills",
-      "href": "#skills"
-    },
-    {
-      "label": "Certifications",
-      "href": "#certifications"
-    }
-  ],
-  "experiences": [
-    {
-      "id": "cmrvzatqu000o9e2ixur0p6ss",
-      "role": "Web Development Intern",
       "company": "Zaalima Development Pvt. Ltd.",
-      "location": "",
-      "start": "2026-03-01",
-      "end": "Present",
-      "current": true,
-      "bullets": [
+      "role": "Web Development Intern",
+      "duration": "2026-03-01 — Present",
+      "responsibilities": [
         "Built and deployed responsive web interfaces using React, JavaScript, HTML, and CSS, ensuring cross-device compatibility across mobile, tablet, and desktop screen sizes. Refactored component rendering logic, reducing average page load time by 30% and eliminating layout shift on mobile viewports."
-      ],
-      "stack": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS"
       ]
     },
     {
-      "id": "cmrvzatqu000p9e2ihwegodcw",
-      "role": "Artificial Intelligence Intern",
       "company": "LaunchEd Global",
-      "location": "",
-      "start": "2025-07-01",
-      "end": "2025-09-30",
-      "current": false,
-      "bullets": [
+      "role": "Artificial Intelligence Intern",
+      "duration": "2025-07-01 — 2025-09-30",
+      "responsibilities": [
         "Built and evaluated 3 NLP-based text classification models, achieving up to 87% accuracy, and deployed them as REST APIs for internal testing workflows. Automated data preprocessing pipeline reducing manual preparation time by 40%, enabling faster model iteration cycles."
-      ],
-      "stack": [
-        "NLP",
-        "REST APIs"
       ]
     }
   ],
   "education": [
     {
-      "id": "cmrvzatqz000q9e2ilwshbbn9",
       "degree": "B.Tech in Computer Science and Engineering",
       "institution": "SRM University - AP",
-      "location": "",
-      "start": "2024-08-01",
-      "end": "",
-      "details": "",
-      "gpa": "8.67"
+      "year": "2024",
+      "highlights": []
     }
   ],
   "projects": [
     {
-      "id": "cmrvzatsm000r9e2iauwaqvlm",
       "title": "OpsMind AI - Enterprise SOP Intelligence Agent",
       "description": "Built a full-stack RAG-based system to transform SOP documents into an AI-powered assistant using React, Node.js, and MongoDB, enabling natural language querying of enterprise documents. Implemented semantic retrieval with vector embeddings and integrated Gemini AI to generate context-aware responses with real-time streaming via SSE.",
-      "tags": [
+      "techStack": [
         "React",
         "Node.js",
         "MongoDB"
       ],
-      "highlights": []
+      "icon": "💻"
     },
     {
-      "id": "cmrvzatsm000s9e2irfktd6ne",
       "title": "Crop Disease Detection (SIH Project)",
       "description": "Architected a CNN-based image classification model to detect crop diseases from leaf images and generate actionable remediation insights for farmers. Streamlined the prediction pipeline and output presentation to improve end-user usability and interpretation accuracy.",
-      "tags": [
+      "techStack": [
         "CNN"
       ],
-      "highlights": []
+      "icon": "💻"
     },
     {
-      "id": "cmrvzatsm000t9e2ib48lrniu",
       "title": "Movie Recommendation System",
       "description": "Built a content-based and collaborative filtering recommendation engine that delivers personalized movie suggestions based on user preferences and viewing history.",
-      "tags": [
+      "techStack": [
         "Collaborative Filtering"
       ],
-      "highlights": []
+      "icon": "💻"
     },
     {
-      "id": "cmrvzatsm000u9e2iuh21r6g4",
       "title": "Excuse & Apology Generator (AI-Based)",
       "description": "Designed a Python NLP tool to generate context-aware, tone-adjusted responses with customization options for urgency, situation type, and formality level.",
-      "tags": [
+      "techStack": [
         "NLP",
         "Python"
       ],
-      "highlights": []
+      "icon": "💻"
     },
     {
-      "id": "cmrvzatsm000v9e2ipbq06h28",
       "title": "Student Record Management System",
       "description": "Engineered a CRUD-based system to manage 50+ student records with structured data storage, efficient retrieval, and a clean CLI interface.",
-      "tags": [
+      "techStack": [
         "CRUD"
       ],
-      "highlights": []
+      "icon": "💻"
     }
   ],
   "skills": [
     {
-      "category": "Programming Languages",
+      "name": "Programming Languages",
       "skills": [
-        {
-          "name": "C"
-        },
-        {
-          "name": "C++"
-        },
-        {
-          "name": "Python"
-        },
-        {
-          "name": "JavaScript"
-        }
+        "C",
+        "C++",
+        "Python",
+        "JavaScript"
       ]
     },
     {
-      "category": "Frontend",
+      "name": "Frontend",
       "skills": [
-        {
-          "name": "React"
-        }
+        "React"
       ]
     },
     {
-      "category": "Backend",
+      "name": "Backend",
       "skills": [
-        {
-          "name": "Node.js"
-        }
+        "Node.js"
       ]
     },
     {
-      "category": "Databases",
+      "name": "Databases",
       "skills": [
-        {
-          "name": "MongoDB"
-        }
+        "MongoDB"
       ]
     },
     {
-      "category": "AI/ML",
+      "name": "AI/ML",
       "skills": [
-        {
-          "name": "Machine Learning"
-        },
-        {
-          "name": "NLP"
-        },
-        {
-          "name": "CNN"
-        }
+        "Machine Learning",
+        "NLP",
+        "CNN"
       ]
     }
   ],
   "certifications": [
     {
-      "id": "cmrvzatsy00169e2inbi2vh80",
       "name": "Artificial Intelligence Internship Certificate",
       "issuer": "LaunchEd Global",
       "date": "2025-09-30"
     },
     {
-      "id": "cmrvzatsy00179e2i3ttat4rt",
       "name": "Data Structures & Algorithms in C++",
       "issuer": "Scaler",
       "date": "2024-12-31"
     }
-  ],
-  "footer": {
-    "copyright": "© 2026 Ashrit Raghupatruni",
-    "note": "Generated with Portfolio Builder"
-  }
+  ]
 }
